@@ -1,16 +1,16 @@
 ### Engenharia de Dados - How BootCamps
 
 
-* Fundamentos de Engenharia de Dados
-* Fundamentos de Ingestão de Dados
-* SQL
-* Capturando dados de uma API
-* Capturando dados com crawlers
-* Testes + Jenkins
-* Git + GitHub
-* Introdução à AWS
-* Data Lakes
-* AWS Glue + Athena
-* Redshift + Spectrum 
-* Apache Airflow
-* Terraform e Cloudformation
+* Módulo 01 - Fundamentos de Engenharia de Dados
+* Módulo 02 - Fundamentos de Ingestão de Dados
+* Módulo 03 - SQL
+* Módulo 04 - Capturando dados de uma API
+* Módulo 05 - Capturando dados com crawlers
+* Módulo 06 - Testes + Jenkins
+* Módulo 07 - Git + GitHub
+* Módulo 08 - Introdução à AWS
+* Módulo 09 - Data Lakes
+* Módulo 10 - AWS Glue + Athena
+* Módulo 11 - Redshift + Spectrum 
+* Módulo 12 - Apache Airflow
+* Módulo 13 - Terraform e Cloudformation
